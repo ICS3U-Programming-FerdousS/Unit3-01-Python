@@ -14,7 +14,7 @@ def main():
     subtotal = float(input("Enter subtotal: $"))
 
     # calculate the tax amount and the total with tax
-    tax = subtotal * constants.TAX_RATE_BC / 100
+    tax = subtotal * constants.TAX_RATE_BC
     total = subtotal + tax
 
     # display the tax amount and the total with tax

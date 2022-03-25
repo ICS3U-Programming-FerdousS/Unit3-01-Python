@@ -6,4 +6,4 @@
 # and the total.
 
 
-TAX_RATE_BC = 12
+TAX_RATE_BC = 0.12
